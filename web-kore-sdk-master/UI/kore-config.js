@@ -11,7 +11,7 @@
     botOptions.koreAnonymousFn = koreAnonymousFn;
     botOptions.recorderWorkerPath = '../libs/recorderWorker.js';
 
-    botOptions.JWTUrl = "PLEASE_ENTER_JWTURL_HERE";
+    botOptions.JWTUrl = "https://pondicherrytraveltourhomestay.com/";
     botOptions.userIdentity = 'vigneshkrishna1607@gmail.com';// Provide users email id here
     botOptions.botInfo = { name: "Nestor", "_id": "st-9f5d9830-543e-5e49-849f-62edafc03e46" }; // bot name is case sensitive
 
@@ -27,7 +27,7 @@
     
     “clientSecret”: “NagSTFtpgLd8w2qGhjwBMPqdN+WDT+uBmBdQVuUPRqI=”
 $.ajax({
-   url: “https:”,
+   url: “https://pondicherrytraveltourhomestay.com/”,
      //this is sample url of a localhost. 
      //This should include the url where you are hosting the bot.
    botOptions.userIdentity = ‘vigneshkrishna1607@gmail.com‘;
